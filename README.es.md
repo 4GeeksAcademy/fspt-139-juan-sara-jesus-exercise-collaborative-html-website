@@ -25,7 +25,7 @@ $ npx http-server --yes -c-1
 
 5. En cuanto todos entiendan cómo modificar sus archivos y hacer `push` de sus cambios, pueden empezar a buscar ejemplos de componentes en https://getbootstrap.com/ para armar la página según se está pidiendo.
 
-<onlyfor saas="false" withBanner="false">
+<how-to-start>
   
 ## 🌱 Cómo iniciar este proyecto
 
@@ -55,7 +55,7 @@ Para cargar y ver tu sitio web en vivo, ejecuta el siguiente comando:
 $ npx http-server --yes -c-1
 ```
 
-</onlyfor>
+</how-to-start>
 
 ## Implementar el sitio web
 
