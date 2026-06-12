@@ -1,7 +1,16 @@
 body{
     background: white;
-
 }
+
+.mi-navbar{
+    background-color: #222;
+    padding: 4px 10px;
+}
+.primer-elemento{
+    font-size: 20px;
+}
+
+    
 #contenedor-imagen {
         position:relative;
     
