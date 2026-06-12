@@ -1,5 +1,5 @@
 body{
-    background: #BDBDBD;
+    background: white;
 
 }
 #contenedor-imagen {
@@ -38,3 +38,4 @@ body{
         top: 45%;
         font-size: 28px;
     }
+    
