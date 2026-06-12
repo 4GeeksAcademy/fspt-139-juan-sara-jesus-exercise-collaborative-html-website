@@ -1,3 +1,41 @@
 body{
     background: white;
+
 }
+#contenedor-imagen {
+        position:relative;
+    
+        text-align: center;
+        color: black;
+    }
+    #contenedor-imagen img{
+        display: block;
+        padding: 0;
+        margin:0;
+        width: 100%;
+        height: 300px;
+        object-fit: cover;
+    }
+
+    .texto-encima,
+    .texto-encima1{
+        position:absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        background-color: white;
+        width: 98%;
+        font-weight:bold;
+
+
+    }
+    .texto-encima{
+      
+        top: 18%;
+        font-size: 48px;
+    }
+    .texto-encima1{
+       
+        top: 45%;
+        font-size: 28px;
+    }
+    
